@@ -1,0 +1,29 @@
+.footer {
+  margin-top: 10vh;
+  background-color: #e0e0e0;
+  padding-top: 1em;
+}
+.mycol {
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer-col {
+  width: 100px;
+}
+.climg {
+  margin-left: 90px;
+  width: 100px;
+  height: 100px;
+}
+.my-foot {
+  width: 100%;
+}
+body {
+  position: relative;
+}
+.head {
+  margin-left: 400px;
+}
+.list-unstyled {
+  margin-left: 490px;
+}

@@ -1,0 +1,50 @@
+.bhead {
+  display: block;
+  padding-left: 20px;
+  width: 800px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: cursive;
+}
+.bpara {
+  position: absolute;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  word-wrap: normal;
+  width: 800px;
+  font-family: cursive;
+}
+.brow {
+  align-items: center;
+  display: flex;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 1rem;
+  justify-content: center;
+  text-align: center;
+  max-height: 400px;
+}
+.bimg {
+  border-radius: 50%;
+  border: 5px solid #555;
+}
+
+.bcolumn {
+  flex: 20%;
+  padding-left: 50px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.column {
+  flex: 20%;
+  padding-left: 50px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: block;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
